@@ -1,0 +1,5 @@
+C:\Users\test\Desktop\Cuenta Atras.exe
+C:\Users\test\Desktop\Cuenta Atras.dll
+C:\Users\test\Desktop\Cuenta Atras.deps.json
+C:\Users\test\Desktop\Cuenta Atras.runtimeconfig.json
+C:\Users\test\Desktop\Cuenta Atras.pdb

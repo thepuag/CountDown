@@ -1,0 +1,16 @@
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\CuentaAtras.Form1.resources
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.csproj.GenerateResource.cache
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.GeneratedMSBuildEditorConfig.editorconfig
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.AssemblyInfoInputs.cache
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.AssemblyInfo.cs
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.csproj.CoreCompileInputs.cache
+D:\AndroidStudio\Cuenta Atras\bin\Debug\net8.0-windows\Cuenta Atras.exe
+D:\AndroidStudio\Cuenta Atras\bin\Debug\net8.0-windows\Cuenta Atras.deps.json
+D:\AndroidStudio\Cuenta Atras\bin\Debug\net8.0-windows\Cuenta Atras.runtimeconfig.json
+D:\AndroidStudio\Cuenta Atras\bin\Debug\net8.0-windows\Cuenta Atras.dll
+D:\AndroidStudio\Cuenta Atras\bin\Debug\net8.0-windows\Cuenta Atras.pdb
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.dll
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\refint\Cuenta Atras.dll
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.pdb
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\Cuenta Atras.genruntimeconfig.cache
+D:\AndroidStudio\Cuenta Atras\obj\Debug\net8.0-windows\ref\Cuenta Atras.dll

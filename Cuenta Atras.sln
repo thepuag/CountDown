@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuenta Atras", "Cuenta Atras.csproj", "{5495E5A4-3859-476F-BD24-F8EB5C53C524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5495E5A4-3859-476F-BD24-F8EB5C53C524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5495E5A4-3859-476F-BD24-F8EB5C53C524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5495E5A4-3859-476F-BD24-F8EB5C53C524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5495E5A4-3859-476F-BD24-F8EB5C53C524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683A493F-EECF-404E-8E2E-5B3F88C6EE48}
+	EndGlobalSection
+EndGlobal
